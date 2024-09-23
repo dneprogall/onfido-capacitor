@@ -63,6 +63,6 @@ dependencies {
 
     implementation "androidx.core:core-ktx:$kotlinVersion"
 
-    implementation 'com.onfido.sdk.capture:onfido-capture-sdk:19.4.1'
-    implementation "com.onfido.sdk:onfido-workflow:19.4.1"
+    implementation 'com.onfido.sdk.capture:onfido-capture-sdk:21.0.1'
+    implementation "com.onfido.sdk:onfido-workflow:21.0.1"
 }
